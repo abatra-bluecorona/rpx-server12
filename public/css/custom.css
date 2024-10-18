@@ -1,0 +1,29 @@
+body .container {
+    max-width: 1140px !important;
+    margin-top:100px!important;
+}
+
+h1{
+    margin-bottom:20px !important;
+}
+
+form > div:nth-child(2), 
+form > div:nth-child(3) { 
+    width: 50%;
+    margin-bottom:20px;
+}
+
+form div input{
+    width: 90%;
+}
+
+
+form > div:last-child {
+    margin-right: 0;
+}
+
+form > div:nth-child(4) {
+    width: 100%; 
+    margin-right: 0; 
+    margin-top:30px;
+}
